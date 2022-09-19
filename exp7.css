@@ -1,0 +1,35 @@
+#d1{
+     background-color: blue;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    }
+    
+#d2{
+    background-color: white;
+    color: red;
+    text-align: center;
+    font-size: 30px;
+    }
+    
+#t1,#t2,#t3{
+    color: blue
+    }
+    
+    
+p{
+    color:blue;
+    }
+    
+#box{
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+    }
+    
+#result{
+    color:green;
+    font-size:25px;
+    text-align: center;
+    }
+    
